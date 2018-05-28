@@ -1,0 +1,12 @@
+body {
+    background-color: '#fff';
+    margin: 0 20px;
+}
+header {
+    text-align: center;
+}
+section {
+    width: 800px;
+    margin: 20px auto 0;
+    background-color: burlywood;
+}
